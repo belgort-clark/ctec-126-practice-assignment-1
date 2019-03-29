@@ -13,7 +13,7 @@
 7. Place a comment block on the page identifying the class, author, assignment and date.
 8. Add appropriate headings to the page to make it more readable.
 9. Page must be valid HTML by passing the W3C validation service.
-10. Push your changes back to GitHub using "git push" within Visual Studio Code. Use the Visual Studio Code Command Pallette for this.
+10. Push your changes back to GitHub using "git push" within Visual Studio Code. Use the Visual Studio Code Command Palette for this.
 
 ## Grading Rubric
 
