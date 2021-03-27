@@ -1,4 +1,4 @@
-# CTEC 126
+# CTEC 126 - JavaScript
 
 ## Practice Assignment 1
 
